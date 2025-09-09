@@ -1,0 +1,58 @@
+#downarrow{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+#exp{
+    font-weight: bold;
+    font-size: 25px;
+    opacity: 1;
+}
+.cards1{
+    display:flex;
+    justify-content: space-between;
+    background-color: white;
+    border-radius: 10px;
+    width: 100%;
+    height: 40px;
+}
+#explore{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.footercontent{
+    background-color: #0f172a;
+}
+#name{
+    color:red;
+    font-size: 30px;
+    font-weight: bold ;
+    padding: 30px 20px;
+}
+.mediaimages{
+    display:flex;
+}
+#media{
+    width: 40px;
+    height: 40px;
+    padding: 30px 10px;
+    
+}
+
+#name1{
+    color:white;
+    font-size: 25px;
+    font-weight: bold ;
+    padding: 15px 20px;
+}
+.content{
+    color: white;
+    margin: 10px  20px;
+    line-height: 30px;
+}
+#lastcontent{
+    color: white;
+    text-align: center;
+    padding: 15px 40px;
+}
